@@ -15,6 +15,9 @@
 define narrator = Character(None)
 define cyberslime = Character("CyberSlime2077", color="#00ff00")
 
+## Images
+image cyberslime = "images/characters/CyberSlime2077.png"
+
 
 ################################################################################
 ## STORY START
