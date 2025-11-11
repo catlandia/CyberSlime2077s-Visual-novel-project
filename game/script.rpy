@@ -32,7 +32,7 @@ label start:
 
     show cyberslime at center
 
-    cyberslime "test dialouge, test dialouge. lmao do I realy have to say this?"
+    cyberslime "test test, why am I even saying this lmao"
 
     return
 
