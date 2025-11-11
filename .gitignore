@@ -1,0 +1,42 @@
+# Ren'Py Generated Files
+*.rpyc
+*.rpymc
+*.rpyb
+*.bak
+*~
+
+# Ren'Py Build/Cache Files
+game/cache/
+game/saves/
+tmp/
+errors.txt
+log.txt
+traceback.txt
+
+# Ren'Py Distribution Files
+*-dists/
+*.app/
+*.exe
+*.apk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build Scripts (optional - remove if you want to commit them)
+generate_gui_images.py
+create_background.py
